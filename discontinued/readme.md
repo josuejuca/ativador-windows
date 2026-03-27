@@ -8,14 +8,14 @@ Os arquivos nesta pasta são **legados** e podem apresentar os seguintes problem
 
 - ❌ Incompatibilidade com versões recentes do Windows
 - ❌ Métodos de ativação obsoletos
-- ❌ Possível não funcionamento em Windows 10/11 atualisados
+- ❌ Possível não funcionamento em Windows 10/11 **atualizados**
 - ❌ Falta de suporte e manutenção
 
 ## 💡 O que fazer?
 
-Se você está procurando scripts de ativação funcioantes, use os arquivos na **pasta raiz** do projeto:
+Se você está procurando scripts de ativação **funcionantes**, use os arquivos na **pasta raiz** do projeto:
 
-- `ativador.cmd` - Script principal
+- [`ativador.cmd`](https://github.com/josuejuca/ativador-windows/blob/main/ativador.cmd) - Script principal
 - `office-windows/` - Scripts para Office
 
 ## 📋 Estrutura
